@@ -1,0 +1,10 @@
+windows/dist/
+windows/build/
+windows/*.spec
+windows/config.json
+__pycache__/
+*.pyc
+android/app/build/
+android/.gradle/
+android/.idea/
+android/local.properties
